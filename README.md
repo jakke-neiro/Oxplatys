@@ -16,7 +16,7 @@ This [notebook](https://github.com/jakke-neiro/oxplatys/blob/gh-pages/Annotation
 [Download *S. mediterranea* annotation](https://github.com/jakke-neiro/oxplatys/raw/gh-pages/smes_v2_hconf_SMESG.gff3.zip)
 
 ## Annotation of the *Dugesia japonica* genome
-Similarly to the *S. mediterranea* genome, the new expression-driven *D. japonica* genome was based on 43 RNA-seq samples (see the [sample list], the [Augustus-derived annotation](http://planarian.jp/index.html) and the [genome assembly](http://planarian.jp/index.html) at planarian.jp.  
+Similarly to the *S. mediterranea* genome, the new expression-driven *D. japonica* genome was based on 43 RNA-seq samples (see the [sample list](https://github.com/jakke-neiro/oxplatys/blob/gh-pages/Djap_annotation.list), the [Augustus-derived annotation](http://planarian.jp/index.html) and the [genome assembly](http://planarian.jp/index.html) at planarian.jp.  
 
 [Download *D. japonica* annotation](https://github.com/jakke-neiro/oxplatys/raw/gh-pages/smes_v2_hconf_SMESG.gff3.zip)
 
