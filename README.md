@@ -1,6 +1,6 @@
 # Oxford Planarian Bioinformatics Community
 
-(https://github.com/jakke-neiro/oxplatys/blob/master/oxfordplanarianlogo.png)
+![](https://github.com/jakke-neiro/oxplatys/blob/master/oxfordplanarianlogo.png)
 
 Jakke Neiro<sup>1</sup> & Nathan Kenny<sup>2</sup>
 
