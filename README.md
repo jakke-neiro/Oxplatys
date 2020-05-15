@@ -15,4 +15,4 @@ This [notebook]() describes the generation of new expression-driven annotation o
 The annotation: [Download](https://github.com/jakke-neiro/oxplatys/blob/gh-pages/smes_v2_hconf_SMESG.gff3.zip)
 
 ## Annotation of the *Dugesia japonica* genome
-ka
+Similarly to the *S. mediterranea* genome, the new expression-driven *D. japonica* genome was based on 43 RNA-seq samples (see the [sample list], the Augustus-derived annotation and the genome assembly.
