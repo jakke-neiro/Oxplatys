@@ -20,7 +20,7 @@ A new expression-driven annotation of the sexual planarian genome (*S. mediterra
 ## Annotation of the *Dugesia japonica* genome
 Similarly to the *S. mediterranea* annotation, the new expression-driven *D. japonica* annotation was generated based on 43 RNA-seq samples (see the [sample list](https://github.com/jakke-neiro/oxplatys/blob/gh-pages/Djap_annotation.list), the [Augustus-derived annotation](http://planarian.jp/index.html) and the [genome assembly](http://planarian.jp/index.html) at planarian.jp.  
 
-[Download *D. japonica* annotation](https://github.com/jakke-neiro/Oxplatys/raw/gh-pages/smes_v2_hconf_SMESG.gff3.zip)
+[Download *D. japonica* annotation](https://github.com/jakke-neiro/Oxplatys/raw/gh-pages/Dugesia_japonica_Oxford_v1.gtf.zip)
 
 ## Publications
 * García-Castro et al. 2020. 
