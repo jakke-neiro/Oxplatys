@@ -22,6 +22,10 @@ Similarly to the *S. mediterranea* annotation, the new expression-driven *D. jap
 
 [Download *D. japonica* annotation](https://github.com/jakke-neiro/Oxplatys/raw/gh-pages/Dugesia_japonica_Oxford_v1.gtf.zip)
 
+## rds files of analyses presented in ACME paper
+These files allow easy uploading to R of the analyses presented in the García-Castro et al. 2020 ACME paper.
+[Download link](https://doi.org/10.6084/m9.figshare.13614605)
+
 ## Publications
 * García-Castro et al. 2020. 
 
