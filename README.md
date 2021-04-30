@@ -1,6 +1,6 @@
 # Oxford Planarian Bioinformatics Community
 
-<img src="Asset 5OxfordPlanarian.png" alt="hi" class="inline"/>
+<img src="Asset 6OxfordPlanarian.png" alt="hi" class="inline"/>
 
 Jakke Neiro<sup>1</sup> & Nathan Kenny<sup>2</sup>
 
