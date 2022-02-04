@@ -27,7 +27,7 @@ These files allow easy uploading to R of the analyses presented in the García-C
 [Download link](https://doi.org/10.6084/m9.figshare.13614605)
 
 ## H3K27ac ChIP-seq data
-(https://drive.google.com/file/d/1IvlHBln6fEFcveq89WMXh0E9kgaF-99X/view?usp=sharing)
+[H3K27ac](https://drive.google.com/file/d/1IvlHBln6fEFcveq89WMXh0E9kgaF-99X/view?usp=sharing)
 
 ## Publications
 ### [ACME dissociation: a versatile cell fixation-dissociation method for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02302-5)
