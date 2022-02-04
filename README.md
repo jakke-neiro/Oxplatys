@@ -26,6 +26,9 @@ Similarly to the *S. mediterranea* annotation, the new expression-driven *D. jap
 These files allow easy uploading to R of the analyses presented in the García-Castro et al. 2020 ACME paper.
 [Download link](https://doi.org/10.6084/m9.figshare.13614605)
 
+## H3K27ac ChIP-seq data
+
+
 ## Publications
 ### [ACME dissociation: a versatile cell fixation-dissociation method for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02302-5)
 Helena García-Castro, Nathan J. Kenny, Marta Iglesias, Patricia Álvarez-Campos, Vincent Mason, Anamaria Elek, Anna Schönauer, Victoria A. Sleight, Jakke Neiro, Aziz Aboobaker, Jon Permanyer, Manuel Irimia, Arnau Sebé-Pedrós & Jordi Solana
