@@ -29,6 +29,8 @@ These files allow easy uploading to R of the analyses presented in the García-C
 ## H3K27ac ChIP-seq data
 [H3K27ac](https://drive.google.com/file/d/1IvlHBln6fEFcveq89WMXh0E9kgaF-99X/view?usp=sharing)
 
+## ATAC-seq data
+
 ## Publications
 ### [ACME dissociation: a versatile cell fixation-dissociation method for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02302-5)
 Helena García-Castro, Nathan J. Kenny, Marta Iglesias, Patricia Álvarez-Campos, Vincent Mason, Anamaria Elek, Anna Schönauer, Victoria A. Sleight, Jakke Neiro, Aziz Aboobaker, Jon Permanyer, Manuel Irimia, Arnau Sebé-Pedrós & Jordi Solana
