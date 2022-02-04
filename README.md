@@ -26,14 +26,21 @@ Similarly to the *S. mediterranea* annotation, the new expression-driven *D. jap
 These files allow easy uploading to R of the analyses presented in the García-Castro et al. 2020 ACME paper.
 [Download link](https://doi.org/10.6084/m9.figshare.13614605)
 
+## Expression values
+
+
 ## H3K27ac ChIP-seq data
 [H3K27ac](https://drive.google.com/file/d/1IvlHBln6fEFcveq89WMXh0E9kgaF-99X/view?usp=sharing)
 
 ## ATAC-seq data
+[ATAC-seq](https://drive.google.com/file/d/19yd18GRDfdCMRyd1AxqG3F6nVDwxzfg6/view?usp=sharing)
+
 
 ## Publications
 ### [ACME dissociation: a versatile cell fixation-dissociation method for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02302-5)
 Helena García-Castro, Nathan J. Kenny, Marta Iglesias, Patricia Álvarez-Campos, Vincent Mason, Anamaria Elek, Anna Schönauer, Victoria A. Sleight, Jakke Neiro, Aziz Aboobaker, Jon Permanyer, Manuel Irimia, Arnau Sebé-Pedrós & Jordi Solana
 
 Single-cell sequencing technologies are revolutionizing biology, but they are limited by the need to dissociate live samples. Here, we present ACME (ACetic-MEthanol), a dissociation approach for single-cell transcriptomics that simultaneously fixes cells. ACME-dissociated cells have high RNA integrity, can be cryopreserved multiple times, and are sortable and permeable. As a proof of principle, we provide single-cell transcriptomic data of different species, using both droplet-based and combinatorial barcoding single-cell methods. ACME uses affordable reagents, can be done in most laboratories and even in the field, and thus will accelerate our knowledge of cell types across the tree of life.
+
+
 
