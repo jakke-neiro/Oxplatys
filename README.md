@@ -30,13 +30,16 @@ These files allow easy uploading to R of the analyses presented in the García-C
 
 
 ## H3K27ac ChIP-seq data
-[H3K27ac](https://drive.google.com/file/d/1IvlHBln6fEFcveq89WMXh0E9kgaF-99X/view?usp=sharing)
+[H3K27ac ChIP-seq bam file](https://drive.google.com/file/d/1IvlHBln6fEFcveq89WMXh0E9kgaF-99X/view?usp=sharing)
 
 ## ATAC-seq data
-[ATAC-seq](https://drive.google.com/file/d/19yd18GRDfdCMRyd1AxqG3F6nVDwxzfg6/view?usp=sharing)
+[ATAC-seq bam file](https://drive.google.com/file/d/19yd18GRDfdCMRyd1AxqG3F6nVDwxzfg6/view?usp=sharing)
 
 
 ## Publications
+### [Identification of enhancer-like elements defines regulatory networks active in planarian adult stem cells](https://www.biorxiv.org/content/10.1101/2022.02.03.479047v1)
+Jakke Neiro, Divya Shridhar, Anish Dattani, Aziz Aboobaker
+
 ### [ACME dissociation: a versatile cell fixation-dissociation method for single-cell transcriptomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02302-5)
 Helena García-Castro, Nathan J. Kenny, Marta Iglesias, Patricia Álvarez-Campos, Vincent Mason, Anamaria Elek, Anna Schönauer, Victoria A. Sleight, Jakke Neiro, Aziz Aboobaker, Jon Permanyer, Manuel Irimia, Arnau Sebé-Pedrós & Jordi Solana
 
