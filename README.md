@@ -27,7 +27,7 @@ These files allow easy uploading to R of the analyses presented in the García-C
 [Download link](https://doi.org/10.6084/m9.figshare.13614605)
 
 ## Expression values
-
+[Proportional expression values](https://github.com/jakke-neiro/Oxplatys/raw/gh-pages/FACS_prop.csv.gz)
 
 ## H3K27ac ChIP-seq data
 [H3K27ac ChIP-seq bam file](https://drive.google.com/file/d/1IvlHBln6fEFcveq89WMXh0E9kgaF-99X/view?usp=sharing)
