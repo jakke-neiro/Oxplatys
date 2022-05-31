@@ -35,6 +35,8 @@ These files allow easy uploading to R of the analyses presented in the García-C
 ## ATAC-seq data
 [ATAC-seq bam file](https://drive.google.com/file/d/19yd18GRDfdCMRyd1AxqG3F6nVDwxzfg6/view?usp=sharing)
 
+## 2. Transcription factors
+[2-1 Transcription factors identification](https://github.com/jakke-neiro/Oxplatys/raw/gh-pages/notebooks/2-1-Transcription-factors-identification.ipynb)
 
 ## Publications
 ### [Identification of enhancer-like elements defines regulatory networks active in planarian adult stem cells](https://www.biorxiv.org/content/10.1101/2022.02.03.479047v1)
