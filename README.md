@@ -36,6 +36,13 @@ These files allow easy uploading to R of the analyses presented in the García-C
 [ATAC-seq bam file](https://drive.google.com/file/d/19yd18GRDfdCMRyd1AxqG3F6nVDwxzfg6/view?usp=sharing)
 
 ## Notebooks
+### 1. Genome annotation
+In the first section, a new expression-driven planarian genome annotation was created. This annotation was used to identify both coding and non-coding transcripts. Proportional expression values (X1:X2:Xins) were assigned to all transcripts.
+
+[1-1 Genome annotation](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-1-Genomeannotation.ipynb)
+
+[1-2 Genome annotation analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-2-Genome-annotation-analysis.ipynb)
+
 ### 2. Transcription factors
 [2-1 Transcription factors identification](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-1-Transcription-factors-identification.ipynb)
 
