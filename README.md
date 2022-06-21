@@ -35,16 +35,23 @@ These files allow easy uploading to R of the analyses presented in the García-C
 ## ATAC-seq data
 [ATAC-seq bam file](https://drive.google.com/file/d/19yd18GRDfdCMRyd1AxqG3F6nVDwxzfg6/view?usp=sharing)
 
-## 2. Transcription factors
+## Notebooks
+### 2. Transcription factors
 [2-1 Transcription factors identification](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-1-Transcription-factors-identification.ipynb)
 
 [2-2 Transcription factors literature review 2000-2009](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-2-Transcription-factors-literature-2000-2009.ipynb)
+
+### 3. ChIP-seq analysis
 
 [3-1 ChIP-seq QC and alignment](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/3-1-ChIP-QCAlignment.ipynb)
 
 [3-2 ChIP-seq filtering and analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/3-2-ChIP-FilteringAnalysis.ipynb)
 
+### 8. Functional assessment
+
 [8-1 Transcription factor knockdown and RNA-seq](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/8-1-TF-RNAseq.ipynb)
+
+
 
 ## Publications
 ### [Identification of enhancer-like elements defines regulatory networks active in planarian adult stem cells](https://www.biorxiv.org/content/10.1101/2022.02.03.479047v1)
