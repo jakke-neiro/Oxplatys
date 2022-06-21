@@ -44,15 +44,22 @@ In the first section, a new expression-driven planarian genome annotation was cr
 [1-2 Genome annotation analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-2-Genome-annotation-analysis.ipynb)
 
 ### 2. Transcription factors
+In the second section, putative transcription factors were identified computationally and then manually curated and assessed.  
+
 [2-1 Transcription factors identification](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-1-Transcription-factors-identification.ipynb)
 
 [2-2 Transcription factors literature review 2000-2009](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-2-Transcription-factors-literature-2000-2009.ipynb)
 
 ### 3. ChIP-seq analysis
+In the third section, H3K27ac and H3K4me1 ChIP-seq data was used to identify enhancer-like regions.
 
 [3-1 ChIP-seq QC and alignment](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/3-1-ChIP-QCAlignment.ipynb)
 
 [3-2 ChIP-seq filtering and analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/3-2-ChIP-FilteringAnalysis.ipynb)
+
+[3-3 ChIP-seq annotation and analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/3-3-ChIPAnnotationAnalysis.ipynb)
+
+[3-3 ChIP-seq annotation and analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/3-3-ChIPAnnotationAnalysis.ipynb)
 
 ### 8. Functional assessment
 
