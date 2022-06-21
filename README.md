@@ -40,6 +40,10 @@ These files allow easy uploading to R of the analyses presented in the García-C
 
 [2-2 Transcription factors literature review 2000-2009](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-2-Transcription-factors-literature-2000-2009.ipynb)
 
+[3-1 ChIP-seq QC and alignment](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/3-1-ChIP-QCAlignment.ipynb)
+
+[3-2 ChIP-seq filtering and analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/3-2-ChIP-FilteringAnalysis.ipynb)
+
 [8-1 Transcription factor knockdown and RNA-seq](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/8-1-TF-RNAseq.ipynb)
 
 ## Publications
