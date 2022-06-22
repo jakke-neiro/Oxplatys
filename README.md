@@ -56,7 +56,7 @@ In the first section, a new expression-driven planarian genome annotation was cr
 
 [1-4 FACS expression analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-4-FACSexpression-R.ipynb)
 
-[](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-5-Genome-annotation-analysis-R.ipynb)
+[1-5 Genome annotation visualization](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-5-Genome-annotation-analysis-R.ipynb)
 
 ### 2. Transcription factors
 In the second section, putative transcription factors were identified computationally and then manually curated and assessed.  
@@ -77,11 +77,15 @@ In the third section, H3K27ac and H3K4me1 ChIP-seq data was used to identify enh
 [3-4 ChIP-seq analysis and visualization](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/3-4-ChIP-Analysis-R.ipynb)
 
 ### 4. ATAC-seq analysis
+In the fourth section, ATAC-seq data was used to assess chromosome accessibility and perform footprinting analysis. 
+
 [4-1 ATAC-seq QC and alignment](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/4-1-ATAC-QCAlign.ipynb)
 
-[4-2 ATAC-seq analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/4-2-ATAC-PeakCoverage.ipynb)
+[4-2 ATAC-seq peak calling](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/4-2-ATAC-PeakCoverage.ipynb)
 
+[4-3 ATAC-seq footprinting](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/4-3-ATAC-footprinting.ipynb)
 
+[4-4 ATAC-seq analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/4-4-ATACAnalysis.ipynb)
 
 ### 5. mbd34(RNAi)
 
