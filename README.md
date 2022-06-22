@@ -65,6 +65,8 @@ In the second section, putative transcription factors were identified computatio
 
 [2-2 Transcription factors literature review 2000-2009](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-2-Transcription-factors-literature-2000-2009.ipynb)
 
+[2-3 Transcription factors literature review 2000-2009](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-2-Transcription-factors-literature-2000-2009.ipynb)
+
 ### 3. ChIP-seq analysis
 In the third section, H3K27ac and H3K4me1 ChIP-seq data was used to identify enhancer-like regions.
 
@@ -88,6 +90,7 @@ In the fourth section, ATAC-seq data was used to assess chromosome accessibility
 [4-4 ATAC-seq analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/4-4-ATACAnalysis.ipynb)
 
 ### 5. mbd34(RNAi)
+[]
 
 ### 6. Enhancer annotation
 
