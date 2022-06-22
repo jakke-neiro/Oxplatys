@@ -27,16 +27,22 @@ These files allow easy uploading to R of the analyses presented in the García-C
 [Download link](https://doi.org/10.6084/m9.figshare.13614605)
 
 # Files
-## Expression values
+### Expression values
 [Proportional expression values](https://github.com/jakke-neiro/Oxplatys/raw/gh-pages/FACS_prop.csv.gz)
 
-## H3K27ac ChIP-seq data
+### ChIP-seq data
+* ChIP-seq H3K27ac input 1: SRX15003268
 * ChIP-seq H3K27ac input 2: SRX15003269
+* ChIP-seq H3K27ac sample 1: SRX15003266
+* ChIP-seq H3K27ac sample 2: SRX15003267
 
-[H3K27ac ChIP-seq bam file](https://drive.google.com/file/d/1IvlHBln6fEFcveq89WMXh0E9kgaF-99X/view?usp=sharing)
-
-## ATAC-seq data
-[ATAC-seq bam file](https://drive.google.com/file/d/19yd18GRDfdCMRyd1AxqG3F6nVDwxzfg6/view?usp=sharing)
+### ATAC-seq data
+* ATAC-seq X1 cells sample 1: SRX15001005
+* ATAC-seq X1 cells sample 2: SRX15001006
+* ATAC-seq X2 cells sample 1: SRX15001007
+* ATAC-seq X2 cells sample 2: SRX15001008
+* ATAC-seq Xins cells sample 1: SRX15001009
+* ATAC-seq Xins cells sample 2: SRX15001010
 
 ## Notebooks
 ### 1. Genome annotation
@@ -45,6 +51,12 @@ In the first section, a new expression-driven planarian genome annotation was cr
 [1-1 Genome annotation](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-1-Genomeannotation.ipynb)
 
 [1-2 Genome annotation analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-2-Genome-annotation-analysis.ipynb)
+
+[1-3 FACS expression](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-3-FACSexpression.ipynb)
+
+[1-4 FACS expression analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-4-FACSexpression-R.ipynb)
+
+[](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/1-5-Genome-annotation-analysis-R.ipynb)
 
 ### 2. Transcription factors
 In the second section, putative transcription factors were identified computationally and then manually curated and assessed.  
@@ -68,6 +80,8 @@ In the third section, H3K27ac and H3K4me1 ChIP-seq data was used to identify enh
 [4-1 ATAC-seq QC and alignment](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/4-1-ATAC-QCAlign.ipynb)
 
 [4-2 ATAC-seq analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/4-2-ATAC-PeakCoverage.ipynb)
+
+
 
 ### 5. mbd34(RNAi)
 
