@@ -65,7 +65,14 @@ In the second section, putative transcription factors were identified computatio
 
 [2-2 Transcription factors literature review 2000-2009](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-2-Transcription-factors-literature-2000-2009.ipynb)
 
-[2-3 Transcription factors literature review 2000-2009](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-2-Transcription-factors-literature-2000-2009.ipynb)
+[2-3 Transcription factors literature review 2010-2014](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-3-Transcription-factors-literature-2010-2014.ipynb)
+
+[2-4 Transcription factors literature review 2015-2021](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-4-Transcription-factors-literature-2015-2021.ipynb)
+
+[2-5 Transcription factors motif inference](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-5-Transcription-factors-motif-inference.ipynb)
+
+[2-6 Transcription factors visualization](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/2-6-Transcription-factors-plots-R.ipynb)
+
 
 ### 3. ChIP-seq analysis
 In the third section, H3K27ac and H3K4me1 ChIP-seq data was used to identify enhancer-like regions.
@@ -90,7 +97,7 @@ In the fourth section, ATAC-seq data was used to assess chromosome accessibility
 [4-4 ATAC-seq analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/4-4-ATACAnalysis.ipynb)
 
 ### 5. mbd34(RNAi)
-[]
+[5-1 Mbd3/4 RNAi H3K4me1 ChIP-seq QC and alignment](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/5-1-MBD34-RNAi-H3K4me1ChIP.ipynb)
 
 ### 6. Enhancer annotation
 
