@@ -105,6 +105,9 @@ In the fourth section, ATAC-seq data was used to assess chromosome accessibility
 
 [8-1 Transcription factor knockdown and RNA-seq](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/8-1-TF-RNAseq.ipynb)
 
+[8-2 Transcription factor knockdown and differential gene expression analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/8-2-DGE-R.ipynb)
+
+[8-3 Transcription factor knockdowns analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/8-3-DGEtargets.ipynb)
 
 
 ## Publications
