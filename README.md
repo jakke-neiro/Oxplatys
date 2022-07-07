@@ -100,6 +100,9 @@ In the fourth section, ATAC-seq data was used to assess chromosome accessibility
 [5-1 Mbd3/4 RNAi H3K4me1 ChIP-seq QC and alignment](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/5-1-MBD34-RNAi-H3K4me1ChIP.ipynb)
 
 ### 6. Enhancer annotation
+[6-1 Enhancer annotation](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/6-1-Enhancer-annotation.ipynb)
+
+
 
 ### 8. Functional assessment
 
@@ -109,6 +112,9 @@ In the fourth section, ATAC-seq data was used to assess chromosome accessibility
 
 [8-3 Transcription factor knockdowns analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/8-3-DGEtargets.ipynb)
 
+[8-4 Transcription factor enrichment visualization](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/8-4-Enrichment-Analysis-R.ipynb)
+
+[8-5 Knockdown target genes and genome tracks](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/8-5-Genome-track-R.ipynb)
 
 ## Publications
 ### [Identification of enhancer-like elements defines regulatory networks active in planarian adult stem cells](https://www.biorxiv.org/content/10.1101/2022.02.03.479047v1)
