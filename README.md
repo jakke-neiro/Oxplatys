@@ -17,6 +17,8 @@ A new expression-driven annotation of the sexual planarian genome (*S. mediterra
 
 [Download *S. mediterranea* annotation](https://github.com/jakke-neiro/Oxplatys/raw/gh-pages/Schmidtea_mediterranea_Oxford_v1.gtf.zip)
 
+[Sample list (SRA ids) for creating the new annotation](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/sample_ids.txt)
+
 ## Annotation of the *Dugesia japonica* genome
 Similarly to the *S. mediterranea* annotation, the new expression-driven *D. japonica* annotation was generated based on 43 RNA-seq samples (see the [sample list](https://github.com/jakke-neiro/oxplatys/blob/gh-pages/Djap_annotation.list), the [Augustus-derived annotation](http://planarian.jp/index.html) and the [genome assembly](http://planarian.jp/index.html) at planarian.jp.  
 
@@ -98,6 +100,8 @@ In the fourth section, ATAC-seq data was used to assess chromosome accessibility
 
 ### 5. mbd34(RNAi)
 [5-1 Mbd3/4 RNAi H3K4me1 ChIP-seq QC and alignment](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/5-1-MBD34-RNAi-H3K4me1ChIP.ipynb)
+
+
 
 ### 6. Enhancer annotation
 [6-1 Enhancer annotation](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/6-1-Enhancer-annotation.ipynb)
