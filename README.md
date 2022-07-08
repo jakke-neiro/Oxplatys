@@ -31,10 +31,10 @@ These files allow easy uploading to R of the analyses presented in the García-C
 [Proportional expression values](https://github.com/jakke-neiro/Oxplatys/raw/gh-pages/FACS_prop.csv.gz)
 
 ### ChIP-seq data
-* ChIP-seq H3K27ac input 1: SRX15003268
-* ChIP-seq H3K27ac input 2: SRX15003269
-* ChIP-seq H3K27ac sample 1: SRX15003266
-* ChIP-seq H3K27ac sample 2: SRX15003267
+* ChIP-seq H3K27ac input 1: SRX15003268, SRR18925503
+* ChIP-seq H3K27ac input 2: SRX15003269, SRR18925502
+* ChIP-seq H3K27ac sample 1: SRX15003266, SRR18925505
+* ChIP-seq H3K27ac sample 2: SRX15003267, SRR18925504
 
 ### ATAC-seq data
 * ATAC-seq X1 cells sample 1: SRX15001005
