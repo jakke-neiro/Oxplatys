@@ -117,7 +117,13 @@ In the fifth section, H3K4me1 and H3K4me3 ChIP-seq and RNA-seq data is analyzed 
 ### 6. Enhancer annotation
 [6-1 Enhancer annotation](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/6-1-Enhancer-annotation.ipynb)
 
-[6-2 Enhancer analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/6-1-Enhancer-annotation.ipynb)
+[6-2 Enhancer analysis](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/6-2-Enhancer-analysis.ipynb)
+
+[6-3 Enhancers genomic tracks](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/6-3-Enhancers-genomic-tracks-R.ipynb)
+
+[6-4 Gene regulatory networks](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/6-4-Networks-R.ipynb)
+
+[6-5 Enhancer analysis and visualization](https://github.com/jakke-neiro/Oxplatys/blob/gh-pages/notebooks/6-5-Enhancer-annotation-R.ipynb)
 
 ### 7. Functional assessment
 
